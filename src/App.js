@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Biology from './Components/Biology'
 import English from './Components/English';
+import UsHistory from './Components/US-history'
 
 function App() {
   return (
@@ -26,6 +27,10 @@ function App() {
           <Route
             path="/english"
             element={<English />}
+          />
+          <Route
+            path="/us-history"
+            element={<UsHistory />}
           />
         </Routes>
       </div>
