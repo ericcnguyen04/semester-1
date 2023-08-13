@@ -9,9 +9,7 @@ function App() {
 
       <div className="App">
         <Routes>
-          <header className="App-header">
-            
-          </header>
+
         </Routes>
       </div>
     </Router>
