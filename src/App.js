@@ -7,6 +7,7 @@ import Home from './Components/Home'
 import Biology from './Components/Biology'
 import English from './Components/English';
 import UsHistory from './Components/US-history'
+import AmericanGov from './Components/American-Gov'
 
 function App() {
   return (
@@ -28,10 +29,17 @@ function App() {
             path="/english"
             element={<English />}
           />
+
           <Route
             path="/us-history"
             element={<UsHistory />}
           />
+
+          <Route 
+            path='/american-government'
+            element={<AmericanGov/>}
+          />
+
         </Routes>
       </div>
       
