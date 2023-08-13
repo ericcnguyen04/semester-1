@@ -22,7 +22,10 @@ function App() {
             element={<Biology />}
           />
 
-
+          <Route
+            path="/english"
+            element={<English />}
+          />
         </Routes>
       </div>
       
