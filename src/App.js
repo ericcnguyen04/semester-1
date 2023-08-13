@@ -4,6 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 import Home from './Components/Home'
+import Biology from './Components/Biology'
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
             path="/biology"
             element={<Biology />}
           />
+
+
         </Routes>
       </div>
       
