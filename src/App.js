@@ -15,6 +15,11 @@ function App() {
             path="/"
             element={<Home />}
           />
+
+          <Route 
+            path="/biology"
+            element={<Biology />}
+          />
         </Routes>
       </div>
       
