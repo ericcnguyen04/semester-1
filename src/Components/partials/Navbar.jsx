@@ -6,6 +6,7 @@ export default function Navbar () {
             <div>
                 <a href="/biology">biology</a>
                 <a href="/american-government">american gov</a>
+                <a href="/us-history">US History</a>
             </div>
         </div>
     )
