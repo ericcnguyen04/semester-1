@@ -1,7 +1,7 @@
 export default function Cancer () {
     return (
         <div>
-            cancer
+            cancerdd
         </div>
     )
 }
