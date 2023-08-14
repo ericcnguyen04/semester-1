@@ -1,6 +1,9 @@
+import Navbar from "./partials/Navbar"
+
 export default function English () {
     return (
         <div>
+            <Navbar/>
             <h1>
                 <a href='https://go.view.usg.edu/d2l/home/2928804' target="_blank">US history</a>
             </h1>
