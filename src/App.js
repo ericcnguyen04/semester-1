@@ -8,6 +8,7 @@ import Biology from './Components/biology/Biology'
 import English from './Components/English';
 import UsHistory from './Components/US-history'
 import AmericanGov from './Components/American-Gov'
+import Cancer from './Components/biology/Cancer';
 
 function App() {
   return (
@@ -27,7 +28,7 @@ function App() {
 
           <Route 
             path="/biology/cancer"
-            element={<Biology />}
+            element={<Cancer />}
           />
 
           <Route
