@@ -3,9 +3,10 @@ import '../../App.css'
 export default function Navbar () {
     return (
         <div className='mainNav'>
-            <li>
+            <div>
                 <a href="/biology">biology</a>
-            </li>
+                <a href="/american-government">american gov</a>
+            </div>
         </div>
     )
 }
