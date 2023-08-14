@@ -20,8 +20,14 @@ export default function Navbar () {
                         Home
                     </a>
 
+                    <a class="navbar-item" href='/english'>
+                        English
+                    </a>
                     <a class="navbar-item" href='/biology'>
                         Biology
+                    </a>
+                    <a class="navbar-item" href='/american-government'>
+                        American Government
                     </a>
 
                     <div class="navbar-item has-dropdown is-hoverable">
