@@ -43,7 +43,7 @@ export default function Navbar () {
                                 Phase 2 - 11/02
                             </a>
                             <a class="navbar-item">
-                                Contact
+                                Phase 3 - 12/11
                             </a>
                             {/* <hr class="navbar-divider"/>
                             <a class="navbar-item">
