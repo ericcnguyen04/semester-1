@@ -1,5 +1,5 @@
 import Navbar from "./partials/Navbar"
-
+import '../App.css'
 export default function English () {
     return (
         <div>

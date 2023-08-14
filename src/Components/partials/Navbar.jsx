@@ -5,7 +5,7 @@ import 'bulma/css/bulma.min.css';
 export default function Navbar () {
     return (
         <div className='mainNav'>
-            <nav class="navbar" role="navigation" aria-label="main navigation">
+            <nav class="navbar is-success" role="navigation" aria-label="main navigation">
             <div>
                 <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
                     <span aria-hidden="true"></span>
@@ -17,7 +17,7 @@ export default function Navbar () {
             <div id="navbarBasicExample" class="navbar-menu">
                 <div class="navbar-start">
                     <a class="navbar-item" href='/'>
-                        Home
+                        Eric's Semester Notes
                     </a>
 
                     <a class="navbar-item" href='/english'>
@@ -56,12 +56,12 @@ export default function Navbar () {
                 <div class="navbar-end">
                     <div class="navbar-item">
                         <div class="buttons">
-                            <a class="button is-primary">
+                            {/* <a class="button is-primary">
                                 <strong>Sign up</strong>
                             </a>
                             <a class="button is-light">
                                 Log in
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
