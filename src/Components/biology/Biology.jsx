@@ -6,6 +6,11 @@ export default function Biology () {
             </h1>
             <div>
                 first day of school
+                <div>
+                20%of grade 'homework'
+                slugsbooks
+                ISBN : 9781265126742
+                </div>
             </div>
         </div>
     )

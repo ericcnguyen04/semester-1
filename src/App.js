@@ -4,7 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 import Home from './Components/Home'
-import Biology from './Components/Biology'
+import Biology from './Components/biology/Biology'
 import English from './Components/English';
 import UsHistory from './Components/US-history'
 import AmericanGov from './Components/American-Gov'
@@ -22,6 +22,11 @@ function App() {
 
           <Route 
             path="/biology"
+            element={<Biology />}
+          />
+
+          <Route 
+            path="/biology/cancer"
             element={<Biology />}
           />
 
