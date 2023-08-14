@@ -26,13 +26,13 @@ export default function Navbar () {
                     <a class="navbar-item" href='/biology'>
                         Biology
                     </a>
-                    <a class="navbar-item" href='/american-government'>
-                        American Government
+                    <a class="navbar-item" href='/us-history'>
+                        US History
                     </a>
 
                     <div class="navbar-item has-dropdown is-hoverable">
                         <a class="navbar-link">
-                        More
+                        American Government
                         </a>
 
                         <div class="navbar-dropdown">
