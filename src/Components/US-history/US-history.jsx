@@ -112,6 +112,18 @@ export default function English () {
                         
                     </ul>
             </div>
+
+            <div>
+                <h1>1491- The Atlantic</h1>
+                <h6>1491</h6>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
         </div>
     )
 }
