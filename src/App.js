@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Biology from './Components/biology/Biology'
 import English from './Components/English';
-import UsHistory from './Components/US-history'
+import UsHistory from './Components/US-history/US-history'
 import AmericanGov from './Components/American-Gov'
 import Cancer from './Components/biology/Cancer';
 

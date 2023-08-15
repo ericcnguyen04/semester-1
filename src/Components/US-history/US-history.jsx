@@ -1,7 +1,7 @@
-import '../App.css'
+import '../../App.css'
 import 'bulma/css/bulma.min.css';
 
-import Navbar from "./partials/Navbar"
+import Navbar from "../partials/Navbar"
 
 export default function English () {
     return (
@@ -109,6 +109,7 @@ export default function English () {
                         Disease, conquest, slavery ravaged Native populations.
                         Empire remnants suffered chaos, ravaging by European invaders.
                         </div>
+                        
                     </ul>
             </div>
         </div>
