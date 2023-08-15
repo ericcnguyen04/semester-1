@@ -34,6 +34,10 @@ export default function English () {
                         <li>Mesoamericans in modern-day Mexico and Central America relied on domesticated maize (corn) to develop the hemisphere’s first settled population around 1200 BCE.</li>
                     </ul>
 
+                    <p>Agriculture</p>
+                    <ul>
+                        <li>Agriculture flourished in the fertile river valleys between the Mississippi River and the Atlantic Ocean,aka Eastern Woodlands. There, three crops in particular—corn, beans, and squash, aka Three Sisters—provided nutritional needs necessary to sustain cities and civilizations. </li>
+                    </ul>
             </div>
         </div>
     )
