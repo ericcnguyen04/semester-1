@@ -104,11 +104,11 @@ export default function English () {
                         Incan empire vulnerable due to unrest, smallpox epidemic.
                         Spanish conqueror Pizarro took control of Incan empire, Cuzco.    
                         </div>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li>Impact of Conquest:</li>
+                        <div>
+                        Disease, conquest, slavery ravaged Native populations.
+                        Empire remnants suffered chaos, ravaging by European invaders.
+                        </div>
                     </ul>
             </div>
         </div>
