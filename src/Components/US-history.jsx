@@ -31,6 +31,7 @@ export default function English () {
                     <ul>
                         <li>Native groups exploited salmom filled rivers</li>
                         <li>Agriculture arose sometime between nine thousand and five thousand years ago, almost simultaneously in the Eastern and Western Hemispheres.</li>
+                        <li>Mesoamericans in modern-day Mexico and Central America relied on domesticated maize (corn) to develop the hemisphere’s first settled population around 1200 BCE.</li>
                     </ul>
 
             </div>
