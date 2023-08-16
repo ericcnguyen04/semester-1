@@ -81,7 +81,21 @@ export default function Cancer () {
                         <li>dna stays in nucleus</li>
                         <li>turn dna into mRNA so it can leave nucleus</li>
                         <li>mRNA is temporary, used to build protein</li>
+                        <li>structure = function: shape of molecule will allow it to do its job</li>
                     </ul>
+
+                    <p>protein structure</p>
+                    <ul>
+                        <li>primary: linear sequence of amino acids</li>
+                        <li>secondary: amino acids interact</li>
+                        <li>Tertiary structure: 3-D molecule, functional</li>
+                        <li>Quaternary structure: Multiple protein
+                        chains interact to form larger molecules with
+                        more complex functions.
+                        Figure 1.13
+                        </li>
+                    </ul>
+                    <p> the information for producing a protwin is contained within nitrogen-containing bases</p>
                 </div>
 
 
