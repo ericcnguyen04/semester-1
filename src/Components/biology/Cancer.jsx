@@ -34,6 +34,7 @@ export default function Cancer () {
                         <li>the body's organ system have specific psysiological roles to maintain homeostasis</li>
                         <li>as cancer cells grow, physiological changes occur in tissues, impacting homeostasis</li>
                         <li>one in three females and one in two males will develop cancer</li>
+                        <li>cancer cells go back into stem cells aka. go back a generation</li>
                     </ul>
                 </div>
 
@@ -61,9 +62,25 @@ export default function Cancer () {
                     <ul>
                         <li>Information processing: nucleus (dna), ribosomes,  (structure where information is used to manufacture proteins)</li>
                         <li>Energy: mitochondria (converts energy found in nutrients)</li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li>Transport and processing: endoplasmic reticulum, lysosome, golgi apparatus [synthesis of protwins lipids and carbs, digestion of incoming nutrition, processing center of the cell]</li>
+                        <li>Isolation: plasma membrane ()</li>
+                        <li>Centrial: responsible for division</li>
+                    </ul>
+
+                    <p>cells are specialized</p>
+                    <ul>
+                        <li>enzymes are usually protein catalysts for chemical reactions</li>
+                        <li>enzyme determines how it will interact with molecules</li>
+                        <li>encymes have an active site where the substrate binds, </li>
+                        <li>some cancer drugs work by binding to the active site, preventing substrate from reacting.</li>
+                    </ul>
+
+                    <p>dna</p>
+                    <ul>
+                        <li> a pair with t, g pair with c</li>
+                        <li>dna stays in nucleus</li>
+                        <li>turn dna into mRNA so it can leave nucleus</li>
+                        <li>mRNA is temporary, used to build protein</li>
                     </ul>
                 </div>
 
