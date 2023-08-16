@@ -114,8 +114,17 @@ export default function Cancer () {
                         <li>dna is compacted and organized into chromosomes</li>
                         <li>23 pairs of chromosomes</li>
                         <li>Telomeres are found at the end of chromosomes. Shorten with each cell cycle, if too short, cell suicide</li>
-                        <li>pairs of chromosomes are homologous, code for similar traits</li>
-                        <li></li>
+                        <li>pairs of chromosomes are homologous, code for similar traits, even though they have different alleles. (refer to eye color)</li>
+                        <li>during S phase, dna replication occurs</li>
+                    </ul>
+
+                    <p>process of mitosis</p>
+                    <ul>
+                        <li>interphase</li>
+                        <li>prophase - nucleus breakfown and attach to spindle fibers</li>
+                        <li>metaphase - center</li>
+                        <li>anaphase - split</li>
+                        <li>telophase and cytokinesis - divide</li>
                     </ul>
                 </div>
             </div>
