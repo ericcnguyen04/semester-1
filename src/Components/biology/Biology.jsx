@@ -1,3 +1,5 @@
+import Cancer from './Cancer'
+
 export default function Biology () {
     return (
         <div>
@@ -12,6 +14,8 @@ export default function Biology () {
                 ISBN : 9781265126742
                 </div>
             </div>
+
+            <Cancer />
         </div>
     )
 }
