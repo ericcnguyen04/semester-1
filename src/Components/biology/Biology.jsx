@@ -1,4 +1,9 @@
+import '../../App.css'
+import 'bulma/css/bulma.min.css';
+
+
 import Cancer from './Cancer'
+
 
 export default function Biology () {
     return (
