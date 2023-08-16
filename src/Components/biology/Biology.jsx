@@ -1,6 +1,7 @@
 import '../../App.css'
 import 'bulma/css/bulma.min.css';
 
+import Navbar from "../partials/Navbar"
 
 import Cancer from './Cancer'
 
