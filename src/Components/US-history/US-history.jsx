@@ -113,7 +113,7 @@ export default function English () {
                     </ul>
             </div>
 
-            <div>
+            {/* <div>
                 <h1>1491- The Atlantic</h1>
                 <h6>1491</h6>
                 <ul>
@@ -123,7 +123,7 @@ export default function English () {
                     <li></li>
                     <li></li>
                 </ul>
-            </div>
+            </div> */}
         </div>
     )
 }
