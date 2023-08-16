@@ -8,7 +8,8 @@ import Cancer from './Cancer'
 
 export default function Biology () {
     return (
-        <div>
+        <div className='content'>
+            <Navbar />
             <h1>
                 biology
             </h1>
