@@ -51,11 +51,22 @@ export default function Cancer () {
                     <ul>
                         <li>Cells = smallest unit of life: can reproduce, respond and adapt to Environments, etc.</li>
                         <li>cells are either prokaryotic (bacteria) or eukaryotic (animal, plant, fungi)</li>
+                        <li>internal environment: sweat, ph, fluids</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h6>Eukaryotic cells have membrane bound organelles</h6>
+                    <p></p>
+                    <ul>
+                        <li>Information processing: nucleus (dna), ribosomes,  (structure where information is used to manufacture proteins)</li>
+                        <li>Energy: mitochondria (converts energy found in nutrients)</li>
                         <li></li>
                         <li></li>
                         <li></li>
                     </ul>
                 </div>
+
 
             </div>
         </div>
