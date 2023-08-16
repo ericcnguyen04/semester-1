@@ -11,7 +11,7 @@ export default function Biology () {
         <div className='content'>
             <Navbar />
             <h1>
-                biology
+                Biology
             </h1>
             <div>
                 first day of school

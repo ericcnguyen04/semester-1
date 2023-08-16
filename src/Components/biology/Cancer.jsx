@@ -18,6 +18,7 @@ export default function Cancer () {
                      </ul>
                     </p>
                 <div>
+                    <p>Types of cancer:</p>
                     <ul>
                         <li>Melanoma- skin</li>
                         <li>Leukemia- white blood cells in bone marrow</li>
@@ -28,24 +29,30 @@ export default function Cancer () {
 
                 <div>
                     <h6></h6>
-                    <p></p>
+                    <p>What is cancer?</p>
                     <ul>
-                        <li></li>
+                        <li>the body's organ system have specific psysiological roles to maintain homeostasis</li>
+                        <li>as cancer cells grow, physiological changes occur in tissues, impacting homeostasis</li>
+                        <li>one in three females and one in two males will develop cancer</li>
                     </ul>
                 </div>
 
                 <div>
-                    <h6></h6>
-                    <p></p>
+                    <h6>Quick Check</h6>
+                    <p>Cancers are named based on what</p>
                     <ul>
-                        <li></li>
+                        <li>types of tissues or organs they originate in</li>
                     </ul>
                 </div>
-                
+
                 <div>
-                    <h6></h6>
+                    <h6>How does a cell normally work?</h6>
                     <p></p>
                     <ul>
+                        <li>Cells = smallest unit of life: can reproduce, respond and adapt to Environments, etc.</li>
+                        <li>cells are either prokaryotic (bacteria) or eukaryotic (animal, plant, fungi)</li>
+                        <li></li>
+                        <li></li>
                         <li></li>
                     </ul>
                 </div>
