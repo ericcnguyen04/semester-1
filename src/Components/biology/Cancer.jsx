@@ -35,6 +35,7 @@ export default function Cancer () {
                         <li>as cancer cells grow, physiological changes occur in tissues, impacting homeostasis</li>
                         <li>one in three females and one in two males will develop cancer</li>
                         <li>cancer cells go back into stem cells aka. go back a generation</li>
+                        <li>cancer is immortal</li>
                     </ul>
                 </div>
 
@@ -96,9 +97,27 @@ export default function Cancer () {
                         </li>
                     </ul>
                     <p> the information for producing a protwin is contained within nitrogen-containing bases</p>
+
+                    <p>cell division</p>
+                    <ul>
+                        <li>g1: growth</li>
+                        <li>s: synthesis</li>
+                        <li>g2: growth</li>
+                        <li>m: cell division occurs</li>
+                        <li> cell will commit suicide if cancer</li>
+                    </ul>
                 </div>
 
-
+                <div>
+                    <h6>chromosomes</h6>
+                    <ul>
+                        <li>dna is compacted and organized into chromosomes</li>
+                        <li>23 pairs of chromosomes</li>
+                        <li>Telomeres are found at the end of chromosomes. Shorten with each cell cycle, if too short, cell suicide</li>
+                        <li>pairs of chromosomes are homologous, code for similar traits</li>
+                        <li></li>
+                    </ul>
+                </div>
             </div>
         </div>
     )
