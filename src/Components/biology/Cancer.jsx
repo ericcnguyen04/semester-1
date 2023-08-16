@@ -14,8 +14,7 @@ export default function Cancer () {
                         <li>Mutation</li>
                         <li>Environments: smoking, toxic</li>
                         <li>Genetics</li>
-                        <li></li>
-                        <li></li>
+                        <li>4th leading cause of death in people</li>
                      </ul>
                     </p>
                 <div>
@@ -34,6 +33,23 @@ export default function Cancer () {
                         <li></li>
                     </ul>
                 </div>
+
+                <div>
+                    <h6></h6>
+                    <p></p>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h6></h6>
+                    <p></p>
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+
             </div>
         </div>
     )
