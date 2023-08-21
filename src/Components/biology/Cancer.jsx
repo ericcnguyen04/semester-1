@@ -118,7 +118,7 @@ export default function Cancer () {
                         <li>during S phase, dna replication occurs</li>
                     </ul>
 
-                    <p>process of mitosis</p>
+                    <p>process of mitosis (PMAT)</p>
                     <ul>
                         <li>interphase</li>
                         <li>prophase - nucleus breakfown and attach to spindle fibers</li>
