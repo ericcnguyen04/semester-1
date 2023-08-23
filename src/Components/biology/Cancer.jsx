@@ -124,7 +124,7 @@ export default function Cancer () {
                         <li>prophase - nucleus breakfown and attach to spindle fibers</li>
                         <li>metaphase - center</li>
                         <li>anaphase - split</li>
-                        <li>telophase and cytokinesis - divide</li>
+                        <li>telophase and cytokinesis - divide (considered 1 phase?)</li>
                     </ul>
                 </div>
             </div>
